@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm **Ramesh Kannah **<br>💻 Python Developer | Backend Developer | Cloud Enthusiast<br>🔍 Interested in Machine Learning & Data Science <br>🚀 1 year of professional experience as a Python Developer at **Meck Teck Pvt. Ltd** <br>📌 Skilled in **Python, Django, REST APIs, Docker, AWS, SQL, MongoDB, Git/GitHub, CI/CD** ><br>🌱 Currently learning **Advanced ML & Cloud Integrations** 
+👋 Hi, I'm **Ramesh Kannah**<br>💻 Python Developer | Backend Developer | Cloud Enthusiast<br>🔍 Interested in Machine Learning & Data Science <br>🚀 1 year of professional experience as a Python Developer at **Meck Teck Pvt. Ltd** <br>📌 Skilled in **Python, Django, REST APIs, Docker, AWS, SQL, MongoDB, Git/GitHub, CI/CD** <br>🌱 Currently learning **Advanced ML & Cloud Integrations** 
 
 
 ## 🌐 Socials:
