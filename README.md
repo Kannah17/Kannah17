@@ -15,7 +15,7 @@
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-2EAD4B?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ramesh-kannah1710)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-white?style=for-the-badge&logo=github&logoColor=181717)](https://github.com/YOUR-GITHUB)
 [![Email](https://img.shields.io/badge/Email-Contact-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rameshkannahgm2001@gmail.com)
 
