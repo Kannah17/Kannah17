@@ -1,127 +1,213 @@
 <div align="center">
 
-# Ramesh Kannah G M
+# Hi, I'm Ramesh Kannah G M
 
-**AWS Data Engineer · Healthcare & Banking · Chennai, India**
+### AWS Data Engineer | PySpark | SQL | Healthcare & Banking Data Pipelines
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2F75B5?style=for-the-badge)
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
-![Kinesis](https://img.shields.io/badge/Kinesis-E91E63?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8A2BE2?style=for-the-badge&logo=amazonredshift&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-2EAD4B?style=for-the-badge&logo=amazonaws&logoColor=white)
+I build scalable data pipelines on AWS with a focus on reliability, performance, monitoring, and business-ready analytics.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ramesh-kannah1710)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-white?style=for-the-badge&logo=github&logoColor=181717)](https://github.com/YOUR-GITHUB)
-[![Email](https://img.shields.io/badge/Email-Contact-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rameshkannahgm2001@gmail.com)
+<br />
+
+<p>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR-GITHUB">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:rameshkannahgm2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## Highlights
+## Professional Summary
 
-| Experience | Source Systems | Data Processed | Runtime Reduction | Domains |
-|---|---|---|---|---|
-| **2 yrs** | **5+** | **80 GB+** | **40%** | **2** |
+AWS Data Engineer with **2 years of experience** designing, building, and maintaining production-grade data pipelines across **Healthcare** and **Banking** domains.
 
----
-
-## About
-
-AWS Data Engineer with 2 years of experience building and maintaining production data pipelines across Healthcare and Banking domains. Skilled in Python, PySpark, SQL, and AWS services including Glue, S3, Kinesis, Redshift, and Lambda. Focused on building reliable and scalable pipelines with an emphasis on performance optimization, monitoring, and data quality.
+Experienced in developing ETL/ELT workflows using **AWS Glue, PySpark, SQL, S3, Redshift, Kinesis, Lambda, SQS, CloudWatch, and Airflow**. Strong focus on **incremental data loading, schema evolution, performance tuning, pipeline monitoring, and data quality**.
 
 ---
 
-## Technical Skills
+## Career Highlights
 
-| Languages | AWS Services | Data Engineering |
-|---|---|---|
-| Python, SQL, PySpark | S3, Glue, Lambda, Kinesis, Redshift, IAM, CloudWatch, SQS | ETL/ELT, Medallion Architecture, Incremental Load, Schema Evolution |
-
-| Big Data & Orchestration | Databases |
+| Metric | Impact |
 |---|---|
-| Apache Spark, Airflow, Git CI/CD | Redshift, Oracle, MySQL, Parquet |
+| **2 Years** | Production data engineering experience |
+| **80 GB+** | Historical and batch data processed |
+| **50 GB+ Daily** | Large-scale financial batch processing |
+| **40% Runtime Reduction** | Glue job optimization through incremental loading |
+| **5+ Source Systems** | Integrated into S3 and Redshift pipelines |
+| **2 Domains** | Healthcare and Banking |
 
 ---
 
-## Experience
+## Tech Stack
 
-### Entrust Software & IT Services  
-**AWS Data Engineer**  
-**May 2024 – Present**
+### Languages & Processing
 
-- Built ETL pipelines using AWS Glue and PySpark across 5+ source systems into S3 and Redshift using Medallion Architecture.
-- Designed analytics-ready fact and dimension datasets in Redshift supporting downstream KPI reporting.
-- Implemented timestamp-based watermarking for incremental ingestion, reducing Glue job runtimes by ~40%.
-- Maintained Kinesis and Lambda streaming with SQS DLQ routing and CloudWatch alerting, cutting failure detection from hours to under 15 minutes.
-- Handled schema evolution across 8+ data sources, preventing pipeline failures from upstream drift.
-- Mitigated PySpark out-of-memory issues on 30 GB+ datasets using executor memory tuning and coalesce optimizations.
-- Automated batch orchestration using Apache Airflow DAGs with retries, SLA monitoring, and alerting.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### AWS & Cloud Services
+
+<p>
+  <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kinesis-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redshift-4053D6?style=for-the-badge&logo=amazonredshift&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+### Data Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Medallion%20Architecture-0E8A16?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Incremental%20Load-FFB000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Schema%20Evolution-6F42C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Quality-D73A49?style=for-the-badge" />
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20CI%2FCD-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## Projects
+## Work Experience
 
-### Healthcare Data Processing Platform  
-`Healthcare Domain`
+### AWS Data Engineer  
+**Entrust Software & IT Services**  
+`May 2024 – Present`
 
-![Glue](https://img.shields.io/badge/Glue-FF9900?style=flat-square)
-![PySpark](https://img.shields.io/badge/PySpark-FF9900?style=flat-square)
-![S3](https://img.shields.io/badge/S3-FF9900?style=flat-square)
-![Kinesis](https://img.shields.io/badge/Kinesis-FF9900?style=flat-square)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square)
-![Redshift](https://img.shields.io/badge/Redshift-FF9900?style=flat-square)
-![Airflow](https://img.shields.io/badge/Airflow-FF9900?style=flat-square)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square)
-
-- Batch ingestion for ~80 GB of historical EHR data, partitioned by date and hospital unit.
-- Real-time ingestion via Kinesis and Lambda with DLQ exception handling for malformed records.
-- Pre-Silver schema validation quarantining corrupted records without halting active pipelines.
-- Spark tuning with broadcast hints and partition pruning cut job runtime from 45 min to 18 min on 20–50 GB batches.
-
-**Batch size:** ~80 GB  
-**Runtime cut:** 45 → 18 min  
-**Units served:** 5+ hospitals  
+- Built ETL pipelines using **AWS Glue + PySpark** across **5+ source systems** into **Amazon S3** and **Amazon Redshift** using Medallion Architecture.
+- Designed analytics-ready **fact and dimension datasets** in Redshift for downstream KPI reporting.
+- Implemented **timestamp-based watermarking** for incremental ingestion, reducing Glue job runtime by approximately **40%**.
+- Maintained **Kinesis + Lambda streaming pipelines** with **SQS DLQ routing** and **CloudWatch alerting**.
+- Reduced failure detection time from hours to under **15 minutes** using alert-driven monitoring.
+- Managed schema evolution across **8+ data sources**, preventing pipeline failures caused by upstream drift.
+- Optimized PySpark workloads on **30 GB+ datasets** using executor tuning, partitioning, and coalesce strategies.
+- Automated batch orchestration using **Apache Airflow DAGs** with retries, SLA monitoring, and alerting.
 
 ---
 
-### Retail & Financial Data Pipeline — NBS Banking  
-`Banking Domain`
+## Featured Projects
 
-![S3](https://img.shields.io/badge/S3-FF9900?style=flat-square)
-![Glue](https://img.shields.io/badge/Glue-FF9900?style=flat-square)
-![PySpark](https://img.shields.io/badge/PySpark-FF9900?style=flat-square)
-![Kinesis](https://img.shields.io/badge/Kinesis-FF9900?style=flat-square)
-![Redshift](https://img.shields.io/badge/Redshift-FF9900?style=flat-square)
-![Oracle](https://img.shields.io/badge/Oracle-FF9900?style=flat-square)
-![SQS](https://img.shields.io/badge/SQS-FF9900?style=flat-square)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square)
+### Healthcare Data Processing Platform
 
-- Built PySpark transformation logic for 50 GB+ daily batches with join optimization and null handling.
-- Implemented watermark-based incremental loading across 5+ financial feeds, reducing Glue processing time by ~35%.
-- Standardized validation checks across 10+ data feeds, cutting analyst-reported inconsistencies.
-- Resolved Lambda consumer timeouts from oversized SQS batches via batch-size tuning and payload validation.
+**Domain:** Healthcare  
+**Goal:** Build a scalable batch and real-time data pipeline for hospital EHR data.
 
-**Daily batch:** 50 GB+  
-**Runtime cut:** ~35%  
-**Feeds:** 10+  
+<p>
+  <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat-square" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kinesis-8C4FFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square" />
+  <img src="https://img.shields.io/badge/Redshift-4053D6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square" />
+</p>
+
+- Processed approximately **80 GB of historical EHR data** partitioned by date and hospital unit.
+- Built real-time ingestion using **Kinesis and Lambda** with DLQ exception handling.
+- Added Pre-Silver schema validation to quarantine corrupted records without stopping active pipelines.
+- Improved Spark performance using broadcast joins and partition pruning.
+- Reduced batch runtime from **45 minutes to 18 minutes** on 20–50 GB workloads.
+
+| Result | Value |
+|---|---|
+| Batch Size | ~80 GB |
+| Runtime Improvement | 45 min → 18 min |
+| Units Served | 5+ hospitals |
+| Pipeline Type | Batch + Streaming |
+
+---
+
+### Retail & Financial Data Pipeline — NBS Banking
+
+**Domain:** Banking  
+**Goal:** Build reliable batch pipelines for financial reporting and feed validation.
+
+<p>
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square" />
+  <img src="https://img.shields.io/badge/Glue-FF9900?style=flat-square" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kinesis-8C4FFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Redshift-4053D6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQS-FF4F8B?style=flat-square" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square" />
+</p>
+
+- Built PySpark transformation logic for **50 GB+ daily batches**.
+- Improved join performance through optimization and null-handling strategies.
+- Implemented watermark-based incremental loading across **5+ financial feeds**.
+- Reduced Glue processing time by approximately **35%**.
+- Standardized validation checks across **10+ data feeds**.
+- Resolved Lambda consumer timeout issues caused by oversized SQS batches.
+
+| Result | Value |
+|---|---|
+| Daily Batch Size | 50 GB+ |
+| Runtime Reduction | ~35% |
+| Financial Feeds | 10+ |
+| Source Systems | 5+ |
+
+---
+
+## What I Bring to a Data Team
+
+- Strong hands-on experience with **AWS data engineering services**.
+- Ability to build pipelines that are **scalable, monitored, and production-ready**.
+- Practical understanding of **batch and streaming architectures**.
+- Experience working with **large datasets, incremental loads, and schema drift**.
+- Focus on creating data pipelines that support **analytics, reporting, and business decisions**.
 
 ---
 
 ## Education
 
-**Master of Information Technology**  
-2022 – 2024 · Pudukkottai
+### Master of Information Technology  
+`2022 – 2024`  
+Pudukkottai
 
 ---
 
 ## Contact
 
-- **Email:** [rameshkannahgm2001@gmail.com](mailto:rameshkannahgm2001@gmail.com)
-- **Phone:** +91 9445650714
-- **Location:** Chennai, Tamil Nadu
+<div align="center">
+
+<p>
+  <a href="mailto:rameshkannahgm2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rameshkannahgm2001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+**Phone:** `+91 9445850714`  
+**Location:** Chennai, Tamil Nadu  
+
+</div>
+
+---
+
+<div align="center">
+
+### Open to AWS Data Engineer and Data Engineering opportunities
+
+</div>
