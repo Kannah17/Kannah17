@@ -9,10 +9,10 @@ I build scalable data pipelines on AWS with a focus on reliability, performance,
 <br />
 
 <p>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://linkedin.com/in/ramesh-kannah1710">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR-GITHUB">
+  <a href="https://github.com/kannah17">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:rameshkannahgm2001@gmail.com">
@@ -199,7 +199,7 @@ Pudukkottai
   </a>
 </p>
 
-**Phone:** `+91 9445850714`  
+**Phone:** `+91 9445650714`  
 **Location:** Chennai, Tamil Nadu  
 
 </div>
