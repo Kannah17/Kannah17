@@ -40,8 +40,6 @@ I am an **AWS Data Engineer** and **Real-Time Streaming Enthusiast** with a huge
 <br/>
 
 ## 🛠️ My Tech Arsenal
-## Technical Skills
-## Tech Stack
 
 | Languages | AWS Services | Data Engineering |
 |---|---|---|
