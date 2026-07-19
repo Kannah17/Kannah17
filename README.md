@@ -3,8 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=HELLO%20WORLD&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Welcome%20to%20my%20Profile&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <p>
-  <img src="https://img.shields.io/badge/-🌐%20kannah17.github.io-8A2BE2?style=for-the-badge&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/-📧%20rameshkannah2001@gmail.com-8A2BE2?style=for-the-badge&labelColor=1a1a1a" />
+  <a href="https://kannah17/github.com"><img src="https://img.shields.io/badge/-🌐%20kannah17.github.io-8A2BE2?style=for-the-badge&labelColor=1a1a1a" /></a>
+  <a href="mailto:rameshkannah2001@gmail.com"><img src="https://img.shields.io/badge/-📧%20rameshkannah2001@gmail.com-8A2BE2?style=for-the-badge&labelColor=1a1a1a" /></a>
 </p>
 
 </div>
