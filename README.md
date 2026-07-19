@@ -1,13 +1,8 @@
 <div align="center">
-
-# Hi, I'm Ramesh Kannah G M
-
-### AWS Data Engineer | PySpark | SQL | Healthcare & Banking Data Pipelines
-
-I build scalable data pipelines on AWS with a focus on reliability, performance, monitoring, and business-ready analytics.
-
+Hi, I'm Ramesh Kannah G M
+AWS Data Engineer | PySpark | SQL | Real-Time Streaming Pipelines
+I build real-time and batch data pipelines on AWS with a focus on compliance, performance, and analytics-ready data — across Healthcare and Banking domains.
 <br />
-
 <p>
   <a href="https://linkedin.com/in/ramesh-kannah1710">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -15,199 +10,142 @@ I build scalable data pipelines on AWS with a focus on reliability, performance,
   <a href="https://github.com/kannah17">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:rameshkannahgm2001@gmail.com">
+  <a href="mailto:rameshkannah2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 </div>
-
 ---
-
-## Professional Summary
-
-AWS Data Engineer with **2 years of experience** designing, building, and maintaining production-grade data pipelines across **Healthcare** and **Banking** domains.
-
-Experienced in developing ETL/ELT workflows using **AWS Glue, PySpark, SQL, S3, Redshift, Kinesis, Lambda, SQS, CloudWatch, and Airflow**. Strong focus on **incremental data loading, schema evolution, performance tuning, pipeline monitoring, and data quality**.
-
+Professional Summary
+AWS Data Engineer with hands-on experience designing and building real-time streaming pipelines, ETL/ELT workflows, and Lakehouse solutions using Python, PySpark, and SQL on AWS — including Kinesis, Glue, Lambda, S3, and Athena.
+Skilled in Medallion Architecture, schema evolution, and data governance across healthcare (HL7/FHIR) and banking/fintech data engineering projects, with practical experience implementing HIPAA- and PCI-DSS-aligned controls such as PHI/PII masking, tokenization, and lineage tracking. Experienced in building pipelines that process millions of records under high-throughput streaming loads, delivering measurable improvements in latency, storage cost, and data accuracy.
 ---
-
-## Career Highlights
-
-| Metric | Impact |
-|---|---|
-| **2 Years** | Production data engineering experience |
-| **80 GB+** | Historical and batch data processed |
-| **50 GB+ Daily** | Large-scale financial batch processing |
-| **40% Runtime Reduction** | Glue job optimization through incremental loading |
-| **5+ Source Systems** | Integrated into S3 and Redshift pipelines |
-| **2 Domains** | Healthcare and Banking |
-
+Project Highlights
+Metric	Impact
+200K+ Records	Synthetic patient records processed & de-identified
+Sub-90-Second Latency	70% latency reduction vs. traditional hourly batch
+100K+ Events/Min	Financial transaction events streamed at sub-500ms latency
+40% Cost Reduction	S3 partitioning & Parquet adoption, banking pipeline
+55% Scan Reduction	Athena query scan volume cut through partitioning
+98.5% Data Accuracy	Transaction reconciliation via Delta Lake time-travel
+2 Domains	Healthcare and Banking
 ---
-
-## Tech Stack
-
-### Languages & Processing
-
+Tech Stack
+Languages & Processing
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark%20SQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 </p>
-
-### AWS & Cloud Services
-
+AWS & Cloud Services
 <p>
   <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
   <img src="https://img.shields.io/badge/Kinesis-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redshift-4053D6?style=for-the-badge&logo=amazonredshift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Athena-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/KMS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Step%20Functions-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
-
-### Data Engineering
-
+Data Engineering
 <p>
   <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-1F6FEB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Medallion%20Architecture-0E8A16?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Incremental%20Load-FFB000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Real--Time%20Streaming-FFB000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Schema%20Evolution-6F42C1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Quality-D73A49?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Governance-D73A49?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PHI%2FPII%20Tokenization-005571?style=for-the-badge" />
 </p>
-
-### Databases & Tools
-
+Databases & Tools
 <p>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git%20CI%2FCD-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git%20%2F%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
 ---
-
-## Work Experience
-
-### AWS Data Engineer  
-**Entrust Software & IT Services**  
-`May 2024 – Present`
-
-- Built ETL pipelines using **AWS Glue + PySpark** across **5+ source systems** into **Amazon S3** and **Amazon Redshift** using Medallion Architecture.
-- Designed analytics-ready **fact and dimension datasets** in Redshift for downstream KPI reporting.
-- Implemented **timestamp-based watermarking** for incremental ingestion, reducing Glue job runtime by approximately **40%**.
-- Maintained **Kinesis + Lambda streaming pipelines** with **SQS DLQ routing** and **CloudWatch alerting**.
-- Reduced failure detection time from hours to under **15 minutes** using alert-driven monitoring.
-- Managed schema evolution across **8+ data sources**, preventing pipeline failures caused by upstream drift.
-- Optimized PySpark workloads on **30 GB+ datasets** using executor tuning, partitioning, and coalesce strategies.
-- Automated batch orchestration using **Apache Airflow DAGs** with retries, SLA monitoring, and alerting.
-
----
-
-## Featured Projects
-
-### Healthcare Data Processing Platform
-
-**Domain:** Healthcare  
-**Goal:** Build a scalable batch and real-time data pipeline for hospital EHR data.
-
+Featured Projects
+Healthcare Patient Data Pipeline (HL7/FHIR)
+Domain: Healthcare — EHR Interoperability
+Goal: Simulate near-real-time HIPAA-compliant ingestion of multi-source EHR feeds end-to-end on AWS.
 <p>
-  <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat-square" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square" />
-  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square" />
   <img src="https://img.shields.io/badge/Kinesis-8C4FFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square" />
-  <img src="https://img.shields.io/badge/Redshift-4053D6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square" />
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square" />
-</p>
-
-- Processed approximately **80 GB of historical EHR data** partitioned by date and hospital unit.
-- Built real-time ingestion using **Kinesis and Lambda** with DLQ exception handling.
-- Added Pre-Silver schema validation to quarantine corrupted records without stopping active pipelines.
-- Improved Spark performance using broadcast joins and partition pruning.
-- Reduced batch runtime from **45 minutes to 18 minutes** on 20–50 GB workloads.
-
-| Result | Value |
-|---|---|
-| Batch Size | ~80 GB |
-| Runtime Improvement | 45 min → 18 min |
-| Units Served | 5+ hospitals |
-| Pipeline Type | Batch + Streaming |
-
----
-
-### Retail & Financial Data Pipeline — NBS Banking
-
-**Domain:** Banking  
-**Goal:** Build reliable batch pipelines for financial reporting and feed validation.
-
-<p>
-  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square" />
   <img src="https://img.shields.io/badge/Glue-FF9900?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square" />
+  <img src="https://img.shields.io/badge/Athena-FF9900?style=flat-square" />
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Kinesis-8C4FFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Redshift-4053D6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQS-FF4F8B?style=flat-square" />
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square" />
+  <img src="https://img.shields.io/badge/HIPAA-005571?style=flat-square" />
 </p>
-
-- Built PySpark transformation logic for **50 GB+ daily batches**.
-- Improved join performance through optimization and null-handling strategies.
-- Implemented watermark-based incremental loading across **5+ financial feeds**.
-- Reduced Glue processing time by approximately **35%**.
-- Standardized validation checks across **10+ data feeds**.
-- Resolved Lambda consumer timeout issues caused by oversized SQS batches.
-
-| Result | Value |
-|---|---|
-| Daily Batch Size | 50 GB+ |
-| Runtime Reduction | ~35% |
-| Financial Feeds | 10+ |
-| Source Systems | 5+ |
-
+Designed a streaming ingestion architecture using Kinesis + PySpark Structured Streaming, processing feeds in under 90 seconds — a 70% latency reduction vs. hourly batch.
+Processed and de-identified 200K+ synthetic patient records across 3 simulated hospital feeds, achieving 99.7% completeness through validation and deduplication.
+Built a HIPAA-aligned ETL pipeline with Glue and PySpark applying PHI masking and tokenization, with lineage tracked via Glue Data Catalog.
+Implemented Medallion Architecture (Bronze → Silver → Gold) with schema evolution enforced via Glue Schema Registry.
+Built Airflow DAGs for nightly validation and reconciliation, catching schema drift before it reached the Gold layer.
+Modeled Athena views for readmission-risk and bed-occupancy metrics, feeding Power BI dashboards for clinical ops stakeholders.
+Result	Value
+Records Processed	200K+ synthetic patient records
+Hospital Feeds	3 simulated feeds
+Streaming Latency	Sub-90 seconds
+Data Completeness	99.7%
 ---
-
-## What I Bring to a Data Team
-
-- Strong hands-on experience with **AWS data engineering services**.
-- Ability to build pipelines that are **scalable, monitored, and production-ready**.
-- Practical understanding of **batch and streaming architectures**.
-- Experience working with **large datasets, incremental loads, and schema drift**.
-- Focus on creating data pipelines that support **analytics, reporting, and business decisions**.
-
----
-
-## Education
-
-### Master of Information Technology  
-`2022 – 2024`  
-Pudukkottai
-
----
-
-## Contact
-
-<div align="center">
-
+Banking Fraud Detection & Transaction Analytics Pipeline
+Domain: Banking / FinTech
+Goal: Replicate a real-time, PCI-DSS-compliant fraud monitoring and AML analytics architecture end-to-end.
 <p>
-  <a href="mailto:rameshkannahgm2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rameshkannahgm2001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kinesis-8C4FFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Glue-FF9900?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square" />
+  <img src="https://img.shields.io/badge/KMS-FF9900?style=flat-square" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square" />
+  <img src="https://img.shields.io/badge/PCI--DSS-005571?style=flat-square" />
+</p>
+Built a real-time transaction pipeline processing 100K+ financial events per minute at sub-500ms latency using PySpark Structured Streaming.
+Reduced storage costs by 40% through S3 partitioning and Parquet adoption, cutting Athena query scan volume by 55%.
+Implemented PCI-DSS-aligned governance: card-number tokenization, KMS encryption at rest, IAM role separation, and Glue Schema Registry validation.
+Achieved 98.5% data accuracy in transaction reconciliation using Delta Lake time-travel, reducing manual audit effort by up to 6 hours per compliance cycle.
+Scheduled daily Airflow jobs to reconcile streamed transactions against source-of-truth batch extracts for the compliance audit trail.
+Queried transaction data in Athena to power AML trend and fraud-alert dashboards in Power BI.
+Result	Value
+Events Processed	100K+ per minute
+Streaming Latency	Sub-500ms
+Storage Cost Reduction	40%
+Data Accuracy	98.5%
+---
+What I Bring to a Data Team
+Strong hands-on experience with AWS data engineering services across streaming and batch workloads.
+Ability to design pipelines that are compliant, governed, and production-ready for regulated domains.
+Practical understanding of Medallion Architecture, schema evolution, and data quality validation.
+Experience implementing HIPAA and PCI-DSS-aligned controls — masking, tokenization, encryption, lineage.
+Focus on building pipelines that support analytics, reporting, and business decision-making.
+---
+Education
+M.Sc. Information Technology
+`2022 – 2024` · CGPA: 7.52
+JJ College of Arts and Science, Pudukkottai
+B.Sc. Information Technology
+`2019 – 2022` · CGPA: 7.71
+JJ College of Arts and Science, Pudukkottai
+---
+Contact
+<div align="center">
+<p>
+  <a href="mailto:rameshkannah2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rameshkannah2001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-**Phone:** `+91 9445650714`  
-**Location:** Chennai, Tamil Nadu  
-
+Phone: `+91 9047225917`
+Location: West Tambaram, Chennai, Tamil Nadu
 </div>
-
 ---
-
 <div align="center">
-
-### Open to AWS Data Engineer and Data Engineering opportunities
-
+Open to AWS Data Engineer and Data Engineering opportunities
 </div>
