@@ -19,7 +19,7 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="100%" valign="top">
 
 I am an **AWS Data Engineer** and **Real-Time Streaming Enthusiast** with a huge love for **Python, PySpark, SQL, AWS Cloud, and Data Governance** 🚀
 
@@ -34,13 +34,6 @@ I am an **AWS Data Engineer** and **Real-Time Streaming Enthusiast** with a huge
 <br/>
 
 <img src="https://img.shields.io/badge/PROFILE%20VIEWS-35%2C788-8A2BE2?style=for-the-badge&labelColor=1a1a1a" />
-
-</td>
-<td width="35%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
-
-</td>
 </tr>
 </table>
 
