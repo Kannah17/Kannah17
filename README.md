@@ -34,6 +34,8 @@ I am an **AWS Data Engineer** and **Real-Time Streaming Enthusiast** with a huge
 <br/>
 
 <img src="https://img.shields.io/badge/PROFILE%20VIEWS-35%2C788-8A2BE2?style=for-the-badge&labelColor=1a1a1a" />
+
+</td>
 </tr>
 </table>
 
