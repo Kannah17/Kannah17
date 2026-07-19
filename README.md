@@ -41,14 +41,8 @@ I am an **AWS Data Engineer** and **Real-Time Streaming Enthusiast** with a huge
 
 ## 🛠️ My Tech Arsenal
 
-| Languages | AWS Services | Data Engineering |
-|---|---|---|
-| Python, SQL, PySpark | S3, Glue, Lambda, Kinesis, Redshift, IAM, CloudWatch, SQS | ETL/ELT, Medallion Architecture, Incremental Load, Schema Evolution |
-### Languages & Processing
 
-| Big Data & Orchestration | Databases |
-|---|---|
-| Apache Spark, Airflow, Git CI/CD | Redshift, Oracle, MySQL, Parquet |
+### Languages & Processing
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
